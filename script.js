@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Happy one month, gudiyaa! 💖 It feels like time has flown by, but every moment with you has been so special, we have already had our ups and downs with yashika and shit but i just want you to know You bring so much warmth, and love into my life, and I’m beyond grateful for you I can’t wait to see where this journey takes us, but I know with you by my side ❤️.";
-    gif.src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBna2lkYjFha3R1NzRwaTM0b3l6OWU2NmxzYzdhbGhkeWNiajllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qca5DjHlDzhrW/giphy.gif";
+    gif.src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhwcDhmdHFneXJ1bGh3YTMzbjQ1aHR3eGszZGkzdTdoZHAzdDVobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k9Jw0MW9TV6Dbewyx2/giphy.gif";
 
     // Hide the No button
     noBtn.style.display = "none";
